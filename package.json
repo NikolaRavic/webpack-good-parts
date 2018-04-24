@@ -1,20 +1,17 @@
 {
-  "name": "webpack-demo",
+  "name": "webpack-good-parts",
   "version": "1.0.0",
-  "description": "Webpack workshop Helsinki",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NikolaRavic/webpack-good-parts.git"
   },
-  "keywords": [
-    "webpack",
-    "workshop"
-  ],
-  "author": "Nikola Ravic",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NikolaRavic/webpack-good-parts/issues"
